@@ -31,7 +31,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST" && !empty($sql) && !$connection_error)
         body { font-family: Arial, sans-serif; margin: 30px; background-color: #f4f6f9; color: #333; }
         h1 { color: #2c3e50; margin-bottom: 5px; }
         
-        /* ESTILO PARA EL USUARIO */
         .user-badge { 
             display: inline-block; 
             background-color: #e2e8f0; 
