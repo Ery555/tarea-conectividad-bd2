@@ -1,0 +1,16 @@
+Enlace del Repositorio de Github de la Tarea:
+https://github.com/Ery555/tarea-conectividad-bd2
+
+Requerimientos para ejecuccion:
+XAMPP
+--------------------------------------------------------------------------------
+Proceso para ejecuccion:
+1. Crear la carpeta 'sql_app' dentro de la ruta estandar de XAMPP (especificamente en C:/xampp/htdocs)
+y pega el codigo fuente (el archivo index.php).
+2. Abre XAMPP e inicia Apache y MySQL luego abre MySQL con el boton Admin y en el
+gestor de base de datos crea una base de datos llamada 'tienda' y crea una tabla en base al script sql adjunto.
+3. Luego abre tu navegador e ingresa a http://localhost/sql_app.
+4. Podrás visualizar la interfaz y usarla para consultar, insertar y actualizar datos, como tambien crear tablas
+y todas las funciones de una interfaz de consultas SQL dentro de la base de datos 'tienda'.
+
+Nota: Si se desea cambiar la base de datos modificar el valor de la variable '$dbname'.
